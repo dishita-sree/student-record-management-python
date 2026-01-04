@@ -1,4 +1,4 @@
-# student-record-management-python
+
 # Student Record Management System (Python)
 
 ## 📌 Project Overview
