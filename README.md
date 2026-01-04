@@ -32,3 +32,7 @@ This project was developed to strengthen understanding of:
 ---
 
 ## 📂 Project Structure
+student-record-management-python/
+│
+├── student_management.py
+└── README.md
